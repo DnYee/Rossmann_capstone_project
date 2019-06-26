@@ -9,3 +9,9 @@ Rossmann是欧洲的一家连锁药店。 在这个源自Kaggle比赛[Rossmann S
 
 ## 数据下载
 此数据集可以从Kaggle上[下载](https://www.kaggle.com/c/4594/download-all)。
+
+## 环境
+该项目使用到matplotlib、seaborn、xgboost、sklearn、numpy、pandas
+
+## 文件说明
+forcasts18.csv 是XGB模型最终预测结果，forcasts_dtr.csv是DecisionTreeRegression预测结果。
