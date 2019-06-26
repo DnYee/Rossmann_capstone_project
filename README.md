@@ -9,3 +9,5 @@ Rossmann是欧洲的一家连锁药店。 在这个源自Kaggle比赛[Rossmann S
 
 ## 数据下载
 此数据集可以从Kaggle上[下载](https://www.kaggle.com/c/4594/download-all)。
+
+**（除去网格搜索部分代码，代码运行时间约为30分钟，网格搜索时间未知）** 
