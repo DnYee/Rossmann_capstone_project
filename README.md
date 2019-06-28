@@ -14,7 +14,7 @@ Rossmann是欧洲的一家连锁药店。 在这个源自Kaggle比赛[Rossmann S
 该项目使用到matplotlib、seaborn、xgboost、sklearn、numpy、pandas
 
 ## 文件说明
-forcasts18.csv 是XGB模型最终预测结果，forcasts_dtr.csv是DecisionTreeRegression预测结果。
+forcasts_md.csv 是XGB模型预测结果乘上0.995后的结果，forcasts_md_wh0995.csv 是XGB模型预测结果，forcasts_dtr.csv是DecisionTreeRegression预测结果。
 
-**（除去网格搜索部分代码，代码运行时间约为30分钟，网格搜索时间未知）** 
+**（除去网格搜索部分代码，代码运行时间约为60分钟，网格搜索时间未知）** 
 
